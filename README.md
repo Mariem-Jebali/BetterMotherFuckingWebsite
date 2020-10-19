@@ -8,4 +8,4 @@ Ce site est BetterMotherFuckingWebsite, avec une popup JavaScript qui demande si
  
  Le fichier popup-script : contient JavaScript code (contient option mode psychédélique)
  
-      Le lien de production est :  https://mariem-jebali.github.io/BetterMotherfuckingWebsite/
+      Le lien de production est :  https://mariem-jebali.github.io/BetterMotherFuckingWebsite/
